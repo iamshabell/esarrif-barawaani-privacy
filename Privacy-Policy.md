@@ -1,76 +1,46 @@
-# Privacy Policy Template
+Privacy Policy  
+----------------
 
+### Introduction  
+Our privacy policy will help you understand what information we collect at *[eSarrif Barawaani*], how *[eSarrif Barawaani]* uses it, and what choices you have.
+*[eSarrif Barawaani]* built the *[eSarrif Barawaani]* app as a free app. This SERVICE is provided by *[eSarrif Barawaani]* at no cost and is intended for use as is.
+If you choose to use our Service, then you agree to the collection and use of information in  relation with this policy. The Personal Information that we collect are used for providing and improving the Service. We will not use or share your information with anyone except as described in this Privacy Policy.  
+The terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, which is accessible in our website, unless otherwise  defined in this Privacy Policy.
 
-This Privacy Policy Template is covers the general privacy concerns and regulations. I hope you find it useful and a good starting point in compiling your own privacy policy for use on your own website or app. Feel free to add stuff that I haven't added, and remove stuff that you don't like. If there are ways that I can do things better, you should absolutely report issues or send me a pull request because I love them so much.
+### Information Collection and Use  
+For a better experience while using our Service, we may require you to provide us with certain personally identifiable information, including but not limited to users name, email address, gender, location, pictures. The information that we request will be retained by us and used as described in this privacy policy.  
+The app does use third party services that may collect information used to identify you. 
 
+### Cookies  
+Cookies are files with small amount of data that is commonly used an anonymous unique identifier. These are sent to your browser from the website that you visit and are stored on your devices’s internal memory.  
 
-## What is a Privacy Policy
+This Services does not uses these “cookies” explicitly. However, the app may use third party code and libraries that use “cookies” to collection information and to improve their services. You have the option  to either accept or refuse these cookies, and know when a cookie is being sent to your device. If you choose to refuse our cookies, you may not be able to use some portions of this Service.  
 
-A privacy policy is a description of what you do with personal data.  The critical things to describe in the policy are how you and your website or app collect, use, store, and share or disclose information about people. Providing a privacy policy also helps your users understand what happens to information about them.
+### Location Information  
+Some of the services may use location information transmitted from users' mobile phones. We only use this information within the scope necessary for the designated service.  
 
-**Note:** A Privacy Policy is not the same as the Terms and Conditions agreement. A Terms and Conditions is the agreement where you include the rules and guidelines that users must agree to in order to use your website or app.
+### Device Information  
+We collect information from your device in some cases. The information will be utilized for the provision of better service and to prevent fraudulent acts. Additionally, such information will not include that which will identify the individual user.  
 
+### Service Providers  
+We may employ third-party companies and individuals due to the following reasons:  
+* To facilitate our Service;
+* To provide the Service on our behalf;
+* To perform Service-related services; or
+* To assist us in analyzing how our Service is used.  
 
-## What is a Personal Data
+We want to inform users of this Service that these third parties have access to your Personal Information. The reason is to perform the tasks assigned to them on our behalf. However, they are obligated not to disclose or use the information for any other purpose.  
 
-Personal data is any kind of data or information that can be considered personal (identifies an individual):
+### Security  
+We value your trust in providing us your Personal Information, thus we are striving to use commercially acceptable means of protecting it. But remember that no method of transmission over  the internet, or method of electronic storage is 100% secure and reliable, and we cannot guarantee its absolute security.  
 
-* First and last name
-* Email address
-* Billing and shipping address
-* Credit card information
-* And so on
+### Children’s Privacy  
+This Services do not address anyone under the age of 13. We do not knowingly collect personal identifiable information from children under 13. In the case we discover that a child under 13 has provided us with personal information, we immediately delete this from our servers. If you  are  a  parent  or  guardian and you are aware that your child has provided us with personal information, please contact us so that we will be able to do necessary actions.  
 
+### Changes to This Privacy Policy  
+We may update our Privacy Policy from time to time. Thus, you are advised to review this page periodically for any changes. We will notify you of any changes by posting the new Privacy Policy on this page. These changes are effective immediately, after they are posted on this page.  
 
-## When is required a Privacy Policy
-
-The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
-
-* Website
-* WordPress blog, or any other platform: Joomla, Drupal etc
-* E-commerce store
-* Mobile app: iOS, Android or Windows Phone
-* Facebook app
-* Desktop app
-* Digital product
-
-
-## How this Privacy Policy Template works
-
-This document has been drafted in Markdown (MD) and in plain text (TXT), and can be converted to HTML using a huge number of open source and commercially available tools.
-
-Elements that need to be filled in have been marked up with double brackets, as follows:
-
-	[["website" or "app"]]
-	[["we" or "I"]]
-	[["us" or "me"]]
-	[["our" or "my"]]
-
-Make sure to find and fill in them all!
-
-
-## Disclaimer
-
-You are free to use it on your own website or app. But before using this Privacy Policy Template you should be aware that you are responsible for its contents when published to your own website or app and that includes the accuracy of information.
-
-This Privacy Policy Template is not legal advice, and is no substitute for a real live lawyer. Some places legally require that you have a privacy policy, and require that you describe certain things in it. Some places have (very specific) rules about what you are and aren't allowed to do with info about users. You should definitely talk with a lawyer about all this stuff, and they should definitely read and review your policy.
-
-You should also know that this Privacy Policy Template is provided without any warranty, express or implied, to the fullest extent possible.
-
-
-## License
-
-This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
-
-
-## Author
-
-Arthur Garegnyan
-
-* Email: arthurgareginyan@gmail.com
-
-* GitHub: [https://github.com/ArthurGareginyan/](https://github.com/ArthurGareginyan/)
-
-* Website: [http://www.arthurgareginyan.com](http://www.arthurgareginyan.com)
-
-* Donation: [http://www.arthurgareginyan.com/donate.html](http://www.arthurgareginyan.com/donate.html)
+### Contact Us  
+If you have any questions or suggestions about our Privacy Policy, do not hesitate to contact us.  
+Contact Information:  
+Email: *[mubarakshabel0@email.com]*  
